@@ -2,6 +2,13 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W01 20 L01 SCELE/Discord related
+ZCZC W01 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W01 15 L03 GitHub and git related
+ZCZC W01 20 L05 QUIZ
+ZCZC W01 20 L06 References related
+ZCZC W01 120 L09 Weekly Assignments
+ZCZC W01 60 L31 Virtualbox: install debian GNU/Linux
 ZCZC W00 15 L01 SCELE/Discord related
 ZCZC W00 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W00 10 L03 GitHub related
