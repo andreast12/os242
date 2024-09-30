@@ -10,3 +10,6 @@ permalink: LINKS/
 * [Operating System Concepts](https://codex.cs.yale.edu/avi/os-book/OS10/) --- Operating system concepts book tenth edition. This book contains lessons about fundamentals of operating systems.
 * [The Linux Filesystem](https://www.linuxfoundation.org/blog/blog/classic-sysadmin-the-linux-filesystem-explained) --- The linux filesystem explained. Contains information about the linux filesystem
 * [FUSE](https://www.kernel.org/doc/html/latest/filesystems/fuse.html) --- FUSE by The Linux Kernel documentation. Contains all information about FUSE.
+* [The Linux Programming Interface](https://broman.dev/download/The%20Linux%20Programming%20Interface.pdf) --- The Linux Programming Interface book by Michael Kerrisk. Contains lessons about The Linux Programming Interface (TLPI).
+* [C Programming with Linux Specialization](https://www.coursera.org/specializations/c-programming-linux) --- C Programming with Linux Specialization course by Coursera. This is a program of seven short courses focused on C programming specializing in the linux platform.
+* [C Pointers](https://www.w3schools.com/c/c_pointers.php) --- C Pointers article by W3schools. This is a brief lesson on pointers in the C programming language.

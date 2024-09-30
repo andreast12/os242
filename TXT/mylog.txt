@@ -2,19 +2,23 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W04 30 L01 SCELE related
+ZCZC W04 200 L02 Classroom sessions
+ZCZC W04 20 L03 GitHub and git related
+ZCZC W04 90 L09 Weekly Assignments
+ZCZC W04 90 L06 Reading and gsgs
+ZCZC W04 20 L05 QUIZ
 ZCZC W03 60 L01 SCELE related
 ZCZC W03 200 L02 Classroom sessions
 ZCZC W03 20 L03 GitHub and git related
 ZCZC W03 120 L09 Weekly Assignments
 ZCZC W03 210 L06 Reading materials and googling
 ZCZC W03 120 L08 Discussing filesystem with friends
-
 ZCZC W02 20 L01 SCELE/Discord related
 ZCZC W02 200 L02 Classroom sessions
 ZCZC W02 20 L03 GitHub and git related
 ZCZC W02 20 L05 QUIZ
 ZCZC W02 90 L09 Weekly Assignments
-
 ZCZC W01 20 L01 SCELE/Discord related
 ZCZC W01 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W01 15 L03 GitHub and git related
@@ -22,7 +26,6 @@ ZCZC W01 20 L05 QUIZ
 ZCZC W01 20 L06 References related
 ZCZC W01 120 L09 Weekly Assignments
 ZCZC W01 60 L31 Virtualbox: install debian GNU/Linux
-
 ZCZC W00 15 L01 SCELE/Discord related
 ZCZC W00 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W00 10 L03 GitHub related
