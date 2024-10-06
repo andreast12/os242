@@ -13,3 +13,6 @@ permalink: LINKS/
 * [The Linux Programming Interface](https://broman.dev/download/The%20Linux%20Programming%20Interface.pdf) --- The Linux Programming Interface book by Michael Kerrisk. Contains lessons about The Linux Programming Interface (TLPI).
 * [C Programming with Linux Specialization](https://www.coursera.org/specializations/c-programming-linux) --- C Programming with Linux Specialization course by Coursera. This is a program of seven short courses focused on C programming specializing in the linux platform.
 * [C Pointers](https://www.w3schools.com/c/c_pointers.php) --- C Pointers article by W3schools. This is a brief lesson on pointers in the C programming language.
+* [C Pointers by Geeksforgeeks](https://www.geeksforgeeks.org/c-pointers/) --- C Pointers article by Geeksforgeeks. Contains explanation about pointers in C.
+* [C Pointers and Arrays](https://www.w3schools.com/c/c_pointers_arrays.php) --- C Pointers and Arrays article by W3schools. Contains explanation about the relationship between pointers and arrays in C.
+* [Kernel Panic](https://en.wikipedia.org/wiki/Kernel_panic) --- A Wikipedia article about kernel panic. Contains a lot of information regarding kernel panic.
