@@ -16,3 +16,6 @@ permalink: LINKS/
 * [C Pointers by Geeksforgeeks](https://www.geeksforgeeks.org/c-pointers/) --- C Pointers article by Geeksforgeeks. Contains explanation about pointers in C.
 * [C Pointers and Arrays](https://www.w3schools.com/c/c_pointers_arrays.php) --- C Pointers and Arrays article by W3schools. Contains explanation about the relationship between pointers and arrays in C.
 * [Kernel Panic](https://en.wikipedia.org/wiki/Kernel_panic) --- A Wikipedia article about kernel panic. Contains a lot of information regarding kernel panic.
+* [fork(2) - Linux Manual Page](https://man7.org/linux/man-pages/man2/fork.2.html) --- A man page for the fork() command in linux. Contains information about what fork() does and usage instructions.
+* [fork() in C](https://www.geeksforgeeks.org/fork-system-call/) --- The Fork system call in C by Geeksforgeeks. Contains information on using the fork() system call in the C programming language.
+* [Shared Memory](https://buddy.works/docs/self-hosted/solving-problems/shared-memory) --- Shared memory article by buddy works. Contains explanations about shared memory in linux.
