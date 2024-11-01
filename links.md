@@ -19,3 +19,6 @@ permalink: LINKS/
 * [fork(2) - Linux Manual Page](https://man7.org/linux/man-pages/man2/fork.2.html) --- A man page for the fork() command in linux. Contains information about what fork() does and usage instructions.
 * [fork() in C](https://www.geeksforgeeks.org/fork-system-call/) --- The Fork system call in C by Geeksforgeeks. Contains information on using the fork() system call in the C programming language.
 * [Shared Memory](https://buddy.works/docs/self-hosted/solving-problems/shared-memory) --- Shared memory article by buddy works. Contains explanations about shared memory in linux.
+* [7 Amazing Facts About SSH's Bidirectional Capabilities](https://locall.host/is-ssh-bidirectional/) --- 7 Amazing Facts About SSH’s Bidirectional Capabilities You Need to Know. Contains some insights about ssh.
+* [How to Securely Copy Files | scp](https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/) --- An article explaining about scp and its purpose. Contains explanation about the scp command.
+* [An Overview of SSH Keys](https://www.ssh.com/academy/ssh-keys) --- An overview of SSH keys. Contains explanation about what SSH keys are and how they work.
