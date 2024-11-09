@@ -22,3 +22,6 @@ permalink: LINKS/
 * [7 Amazing Facts About SSH's Bidirectional Capabilities](https://locall.host/is-ssh-bidirectional/) --- 7 Amazing Facts About SSH’s Bidirectional Capabilities You Need to Know. Contains some insights about ssh.
 * [How to Securely Copy Files | scp](https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/) --- An article explaining about scp and its purpose. Contains explanation about the scp command.
 * [An Overview of SSH Keys](https://www.ssh.com/academy/ssh-keys) --- An overview of SSH keys. Contains explanation about what SSH keys are and how they work.
+* [Linux From Scratch Book](https://www.linuxfromscratch.org/lfs/view/12.2/) --- The Linux From Scratch version 12.2 Book. Contains full guide on setting up linux from scratch.
+* [How to Build Linux From Scratch 11.3 in VirtualBox](https://www.youtube.com/playlist?list=PLyc5xVO2uDsB4gJ2dPySvs2eK_roFwKeb) --- Kernotex's LFS in VirtualBox. This is a youtube playlist on setting up LFS inside virtualbox.
+* [Linux From Scratch Wikipedia](https://en.wikipedia.org/wiki/Linux_From_Scratch) --- A Wikipedia page about Linux From Scratch. Contains a lot of information and history of the linux from scratch.
